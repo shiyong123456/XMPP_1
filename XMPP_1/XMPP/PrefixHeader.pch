@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  XMPP_1
+//
+//  Created by shiyong on 17/7/13.
+//  Copyright © 2017年 SY. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+
+//openfire服务器IP的地址
+#define KHostName  @"127.0.0.1"
+//openfire服务器的端口 默认为5222
+#define KHostPost  5222
+//openfire的域名
+#define KDomin  @"127.0.0.1"
+//resouse
+#define KResouse @"iOS"
+
+#endif /* PrefixHeader_pch */
