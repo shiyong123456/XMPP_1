@@ -1,0 +1,3 @@
+# XMPP_1
+这是利用openfire，xampp,spark做的一个即时通讯的demo
+首先你要下载openfire和xampp，还有spark这些客户端，然后配置好，运行demo，就可以和spark客户端进行相互通讯
